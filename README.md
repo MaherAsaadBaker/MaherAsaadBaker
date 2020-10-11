@@ -2,7 +2,7 @@
 
 ### 👋 Hi there, I'm Maher, co-founder and CEO of [SOLAV][website].
 
-[![Website](https://img.shields.io/website?label=MaherAsaadBaker.com&style=for-the-badge&url=https%3A%2F%2Fsolav.me)](https://solav.me)
+[![Website](https://img.shields.io/website?label=solav.me&style=for-the-badge&url=https%3A%2F%2Fsolav.me)](https://solav.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MaherAsaadBaker?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMaherAsaadBaker&screen_name=MaherAsaadBaker)
 
 ### Contact with me at:
